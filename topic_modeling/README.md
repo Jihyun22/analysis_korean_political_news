@@ -1,2 +1,3 @@
-## topic modeling
-- 모델 학습 코드
+## topic_modeling
+
+  - LDA 알고리즘 적용하여 기사 내 Topic을 추출
