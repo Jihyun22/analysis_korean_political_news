@@ -5,3 +5,4 @@
   - Klue RE task 활용
 
   - model architecture
+  - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/relation_extraction/architecture-2.png?raw=true)
