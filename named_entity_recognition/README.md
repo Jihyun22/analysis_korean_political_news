@@ -4,4 +4,6 @@
 
   - Klue NER task 활용
 
-  - model architecture
+  - model architecture 
+  - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/named_entity_recognition/architecture-1.png?raw=true)
+
