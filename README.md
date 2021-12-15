@@ -29,9 +29,7 @@
 
      - Klue YNAT task 활용
 
-     - model architecture
-     - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/named_entity_recognition/architecture-1.png?raw=true)
-
+     
 5. named_entity_recognition
 
      - 개체명 인식 기술을 적용하여(Named entity recognition) 기사의 내용을 “인물/장소/기관/키워드”로 분류
@@ -39,6 +37,8 @@
      - Klue NER task 활용
 
      - model architecture
+     - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/named_entity_recognition/architecture-1.png?raw=true)
+
 
 6. relation_extraction
 
@@ -47,12 +47,14 @@
      - Klue RE task 활용
 
      - model architecture
+     - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/relation_extraction/architecture-2.png?raw=true)
 
 7. sentiment_analysis
 
      - 기사의 내용을 “positive/neutral/negative”로 분류
 
      - model architecture
+     - ![image](https://github.com/Jihyun22/analysis_korean_political_news/blob/main/sentiment_analysis/architecture-3.png?raw=true)
 
 8. model serving
 
